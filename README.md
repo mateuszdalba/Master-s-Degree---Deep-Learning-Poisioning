@@ -1,9 +1,9 @@
 <h2> <b> Master's Degree Diploma repo </b> </h2>
 
-Topic: 
+Topic: <br>
 Deep Learning poisoning
 
-Author: 
+Author: <br>
 Mateusz Dalba
 
 
